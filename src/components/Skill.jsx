@@ -1,42 +1,42 @@
 
 const skillItem = [
     {
-      imgSrc: '/images/figma.svg',
+      imgSrc: '/src/assets/images/figma.svg',
       label: 'Figma',
       desc: 'Design tool'
     },
     {
-      imgSrc: '/images/css3.svg',
+      imgSrc: '/src/assets/images/css3.svg',
       label: 'CSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: '/images/javascript.svg',
+      imgSrc: '/src/assets/images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
     },
     {
-      imgSrc: '/images/nodejs.svg',
+      imgSrc: '/src/assets/images/nodejs.svg',
       label: 'NodeJS',
       desc: 'Web Server'
     },
     {
-      imgSrc: '/images/expressjs.svg',
+      imgSrc: '/src/assets/images/expressjs.svg',
       label: 'ExpressJS',
       desc: 'Node Framework'
     },
     {
-      imgSrc: '/images/mongodb.svg',
+      imgSrc: '/src/assets/images/mongodb.svg',
       label: 'MongoDB',
       desc: 'Database'
     },
     {
-      imgSrc: '/images/react.svg',
+      imgSrc: '/src/assets/images/react.svg',
       label: 'React',
       desc: 'Framework'
     },
     {
-      imgSrc: '/images/tailwindcss.svg',
+      imgSrc: '/src/assets/images/tailwindcss.svg',
       label: 'TailwindCSS',
       desc: 'User Interface'
     },

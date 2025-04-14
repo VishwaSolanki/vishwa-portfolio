@@ -103,7 +103,7 @@ const Footer =()=>{
                     className=""
                     >
                         <img
-                        src="/images/logo.svg"
+                        src="/src/assets/images/logo.svg"
                         width={40}
                         height={40}
                         alt="Logo"

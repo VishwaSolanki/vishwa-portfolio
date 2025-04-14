@@ -11,7 +11,7 @@ const[navOpen, setNavOpen] = useState(false);
 
     <h1>
         <a href="/" className="logo">
-        <img src="/images/logo.svg" alt="logo" width={40} height={40} />
+        <img src="/src/assets/images/logo.svg" alt="logo" width={40} height={40} />
         </a>
     </h1>
 

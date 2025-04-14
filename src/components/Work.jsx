@@ -3,37 +3,37 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '/images/project-1.png',
+      imgSrc: '/src/assets/images/project-1.png',
       title: 'Property Website',
       tags: ['HTML', 'CSS', 'JavaScript', 'PHP'],
       projectLink: 'https://splendorous-unicorn-20292c.netlify.app/'
     },
     {
-      imgSrc: '/images/project-2.png',
+      imgSrc: '/src/assets/images/project-2.png',
       title: 'Personal Portfolio',
       tags: ['React', 'Tailwind CSS', 'JavaScript'],
       projectLink: ''
     },
     {
-      imgSrc: '/images/project-3.png',
+      imgSrc: '/src/assets/images/project-3.png',
       title: 'E-Commerce fashion website',
       tags: ['HTML', 'CSS', 'JavaScript', 'PHP'],
       projectLink: 'https://e-commerce-fashionhub.netlify.app/'
     },
     {
-      imgSrc: '/images/project-4.png',
+      imgSrc: '/src/assets/images/project-4.png',
       title: 'Weather App',
       tags: ['HTML', 'CSS', 'JavaScript'],
       projectLink: 'https://weather-forcasting1.netlify.app/'
     },
     {
-      imgSrc: '/images/project-5.png',
+      imgSrc: '/src/assets/images/project-5.png',
       title: 'CRUD Application',
       tags: ['React', 'Tailwind CSS', 'JavaScript'],
       projectLink: 'https://react-ultimate-crud-app.netlify.app/'
     },
     {
-      imgSrc: '/images/project-6.jpg',
+      imgSrc: '/src/assets/images/project-6.jpg',
       title: 'Blog API',
       tags: ['MERN','JWT'],
       projectLink: 'https://github.com/VishwaSolanki/Blog-API.git'

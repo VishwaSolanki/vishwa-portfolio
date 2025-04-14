@@ -38,7 +38,7 @@ const About = () => {
                     }
 
                     <img
-                    src="/images/logo.svg"
+                    src="/src/assets/images/logo.svg"
                     alt="logo"
                     width={30}
                     height={30}
